@@ -1,4 +1,14 @@
-# The Edge of Intelligence - AIがあなたのデバイスで動く時代
+# The Edge of Intelligence — AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり
+**The Edge of Intelligence — Why Open-Weight AI Will Move from Cloud to Your Device, and What It Means for Business and Society**
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
+
+<p align="left">
+  <img src="../../assets/cover_ogp.png" width="70%">
+</p>
+
+---
 
 ## Part 1: The Convergence
 
@@ -224,7 +234,7 @@ Part 1で確認した事実を整理する。
 
 ---
 
-</p>
+
 
 ---
 
@@ -237,15 +247,7 @@ Part 1で確認した事実を整理する。
 > 本書は [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ライセンスの下で公開されています。
 > 引用・共有の際は、著者名とリポジトリURLのクレジット表示をお願いします。
 > 
-> **著者:** 山内怜史（s3atoshi）| AI Strategist & Business Designer
-> **所属:** Sun Asterisk Inc. / [Leading.AI](https://github.com/Leading-AI-IO)
+> **著者:** 山内 怜史 | AI Strategist & Business Designer
+> **所属:** [Leading.AI](https://github.com/Leading-AI-IO)
 > 
-> ---
-> 
-> **関連リポジトリ:**
-> 
-> - [The Silence of Intelligence ── ダリオ・アモディの思想と哲学](https://github.com/Leading-AI-IO/the-silence-of-intelligence)
-> - [Palantir Ontology Strategy](https://github.com/Leading-AI-IO/palantir-ontology-strategy)
-> - [Depth & Velocity ── 生成AI時代の新規事業開発方法論](https://github.com/Leading-AI-IO/depth-and-velocity)
-> - [The AI Strategist ── AIストラテジストの定義](https://github.com/Leading-AI-IO/the-ai-strategist)
-> - [What the AI-Advantaged Generation Won't Teach You](https://github.com/Leading-AI-IO/what-they-wont-teach-you)
+
