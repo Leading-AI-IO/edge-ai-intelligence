@@ -1,5 +1,6 @@
 # The Edge of Intelligence — AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり
-**The Edge of Intelligence — Why Open-Weight AI Will Move from Cloud to Your Device, and What It Means for Business and Society**
+**The Edge of Intelligence —** <br>
+**Why Open-Weight AI Will Move from Cloud to Your Device, and What It Means for Business and Society**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
@@ -21,15 +22,14 @@ Step 3.5 Flashは自身の3倍のサイズを持つDeepSeek V3.2を凌駕した�
 誰でもダウンロード・実行できるAIモデル）の性能差は、すでに消滅した。**
 
 この事実が引き起こす構造的な変化は、単なる「モデルの選択肢が増えた」という話にとどまらない。<br>
-競争の軸そのものが「どのモデルが最も賢いか」から、<br>
-「どこで推論を実行し、誰がデータを支配するか」へと移行する。
+競争の軸が **「どのモデルが最も賢いか」から「どこで推論を実行し、誰がデータを支配するか」** へ移行する。
 
 本書は、この構造転換を4つの視点から解き明かす。
 
 - **性能収束の証拠** — なぜ、いま、性能差が消えたのか
 - **新たな競争軸** — 効率性、速度、オンデバイス、プライバシー
 - **企業戦略への影響** — 推論ロケーション・ポートフォリオという新概念
-- **消費者行動の不可逆な変化** — サブスク疲れからオンデバイスAIへのフライホイール
+- **消費者行動の不可逆な変化** — サブスク疲れからオンデバイスAIへの不可逆な移行
 
 そして最終章で、これらすべてを著者のDepth & Velocity（D&V）方法論と接続し、<br>
 エッジAI時代における新規事業開発の新しい地平を提示する。
