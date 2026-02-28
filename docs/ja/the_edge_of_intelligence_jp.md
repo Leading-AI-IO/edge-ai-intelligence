@@ -1004,7 +1004,8 @@ APIの採用速度は、もはやVelocityではない。それは単なるベン
 
 > **本書について**
 > 
-> 『The Edge of Intelligence ── AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり』は、AIストラテジスト・山内怜史（Satoshi Yamauchi）によるオープンソース書籍プロジェクトです。
+> 『The Edge of Intelligence ── AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり』は、<br>
+> AIストラテジスト・山内怜史（Satoshi Yamauchi）によるオープンソース書籍プロジェクトです。
 > 
 > 本書は [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ライセンスの下で公開されています。
 > 引用・共有の際は、著者名とリポジトリURLのクレジット表示をお願いします。
