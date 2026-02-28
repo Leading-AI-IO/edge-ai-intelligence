@@ -1,6 +1,6 @@
-# The Edge of Intelligence — AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり
+# The Edge of Intelligence
 
-**The Edge of Intelligence — Why Open-Weight AI Will Move from Cloud to Your Device, and What It Means for Business and Society**
+**AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
