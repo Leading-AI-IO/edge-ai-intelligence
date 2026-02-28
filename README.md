@@ -53,39 +53,40 @@ Step 3.5 Flashは自身の3倍のサイズを持つDeepSeek V3.2を凌駕した�
 
 | テーマ | 内容 |
 |------|------|
-| 推論効率（Tokens/sec per Dollar） | Step 3.5 Flashが128kコンテキストで100tokens/sec。3倍大きいモデルの3倍のスループット |
-| オンデバイス実現可能性 | Nanbeige 4.1 3Bはラップトップで動作。スマホ展開は四半期単位の射程 |
-| アーキテクチャ革新 | Gated DeltaNet、Multi-Token Prediction、Sliding Window Attention |
-| プライバシーとデータ主権 | 誰も自分の会話をクラウドに送りたくない。GDPR、業界規制、消費者心理 |
+| 推論効率（Tokens/sec per Dollar） | Step 3.5 Flashが262kコンテキストで100〜350 tok/sec。11Bアクティブで196Bの知識を維持 |
+| オンデバイス実現可能性 | Nanbeige 4.1 3Bはスマートフォン上で動作実証。ワークステーション・ラップトップはすでに実用段階 |
+| アーキテクチャ革新 | Mixture-of-Experts（MoE）、Multi-Token Prediction（MTP）、Sliding Window Attention（SWA）、量子化（Quantization）の同時成熟 |
+| プライバシーとデータ主権 | 「安全に管理されている」と「そもそも送信されない」の間の、心理的に埋めがたい溝 |
 
-### Part 3：Enterprise Implications — エンタープライズAI採用の5つの構造転換
-
-| テーマ | 内容 |
-|------|------|
-| Shift 1 | 「どのモデルか」から「どこで推論するか」へ |
-| Shift 2 | OpEx（API課金）からCapEx（推論インフラ投資）へ |
-| Shift 3 | ベンダーロックインリスクの再評価 |
-| Shift 4 | 推論ロケーション・ポートフォリオ（Cloud / On-Premise / Edge の3層設計） |
-| Shift 5 | モデル性能からコンテキストエンジニアリングへ — Palantirオントロジーとの接続 |
-
-### Part 4：The Consumer Shift — オンデバイスAIへの不可逆なフライホイール
+### Part 3：Enterprise Implications — エンタープライズAI戦略を書き換える5つの構造的シフト
 
 | テーマ | 内容 |
 |------|------|
-| サブスクリプション疲れ | Netflix、Spotify、Adobe、ChatGPT Plus、Claude Pro。AIサブスクは最初の解約候補 |
-| プライバシー本能 | 健康、恋愛、キャリア、財務。人がAIに聞くことは、最も他人に知られたくないこと |
-| レイテンシの不可逆性 | オンデバイス推論の即時応答を体験したら、クラウドの遅延には戻れない |
-| オフライン可用性 | 飛行機、地下鉄、新興国。クラウドAIが届かない場所にこそ、最大の市場がある |
-| オーナーシップ心理 | 「自分のAI、自分のデバイス」が生む感情的ロイヤルティ |
+| Shift 1 | 「どのモデルか」から「どこで推論するか」へ — データレジデンシー、知財、財務構造を同時に規定 |
+| Shift 2 | OpEx（API課金）からCapEx（推論インフラ投資）へ — Lenovo TCO分析：損益分岐点4ヶ月未満、最大18倍のコスト優位 |
+| Shift 3 | ベンダーロックインリスクの再評価 — 「許容される必然」から「戦略的怠慢のリスク」へ |
+| Shift 4 | 推論ロケーション・ポートフォリオ（Cloud API / On-Premise / Edge の3層設計と動的最適化） |
+| Shift 5 | モデル性能からコンテキストエンジニアリングへ — Palantirオントロジーとの構造的一致 |
 
-### 結論：D&V Perspective on the Edge AI Era
+### Part 4：The Consumer Shift — オンデバイスAIへの不可逆な移行を駆動する5つの力
 
 | テーマ | 内容 |
 |------|------|
-| Depthの再定義 | モデル性能は民主化された。新しいDepthはデータ構造化とコンテキストエンジニアリング |
+| 力1：サブスクリプション疲れ | オンデバイスAIの限界費用がゼロであるとき、月額20ドルは「なくても困らない贅沢」に変質する |
+| 力2：プライバシーの本能 | 人がAIに聞く最も重要な質問は、最も他者に知られたくない質問だ |
+| 力3：レイテンシーの不可逆性 | 即座の応答を体験したユーザーは、クラウドの遅延に戻れない。速度の期待値は一方向にしか動かない |
+| 力4：オフライン可用性 | グローバルサウスの数十億人にとって、オンデバイスAIは唯一の選択肢である |
+| 力5：所有の感覚 | 「自分のデバイスで動く、自分のAI」という心理的所有感は、TCO計算よりも強力だ |
+| フライホイール | 5つの力は相互に強化し合い、すべてが不可逆的に同じ方向に作用する |
+
+### Conclusion：The D&V Perspective on the Edge AI Era
+
+| テーマ | 内容 |
+|------|------|
+| Depthの再定義 | モデル性能は民主化された。新しいDepthは自社固有のデータ構造化とコンテキストエンジニアリング |
 | Velocityの再定義 | 「最新APIの導入速度」から「エッジへの知能展開速度」へ |
-| Palantirオントロジー接続 | モデルはコモディティ、データアーキテクチャがモート |
-| エッジAI時代の新規事業開発 | D&V方法論のオンデバイスパラダイムへの進化 |
+| エコシステム接続 | 全6作品のオープンソース知識リポジトリが相互参照する体系 |
+| 結語 | 技術が「可能」にし、経済が「合理的」にし、社会が「必要」とする。この移動は、止められない |
 
 ---
 
@@ -93,9 +94,8 @@ Step 3.5 Flashは自身の3倍のサイズを持つDeepSeek V3.2を凌駕した�
 
 | ファイル | 言語 | 内容 |
 |--------|------|------|
-| [part1_the_convergence.md](./docs/ja/part1_the_convergence.md) | 🇯🇵 日本語 | Part 1：The Convergence |
-| Part 2〜4、結論 | 🇯🇵 日本語 | 順次公開 |
-| English edition | 🇺🇸 English | 順次公開 |
+| [Full Text (Japanese)](./docs/ja/the_edge_of_intelligence_jp.md) | 🇯🇵 日本語 | 全文（Part 1〜4 + Conclusion） |
+| [Full Text (English)](./docs/en/the_edge_of_intelligence_en.md) | 🇺🇸 English | Full text (Part 1–4 + Conclusion) |
 
 ---
 
@@ -115,22 +115,23 @@ Step 3.5 Flashは自身の3倍のサイズを持つDeepSeek V3.2を凌駕した�
 
 | 層 | 配置 | ユースケース | モデル例 |
 |---|------|------------|---------|
-| Tier 1 | Cloud API | 最高精度の意思決定、最新モデルへの即時アクセス | GPT-5.2、Claude Opus 4.6 |
-| Tier 2 | On-Premise / Private Cloud | 機密データ処理、規制対応 | GLM-5、Qwen3.5クラス |
-| Tier 3 | Edge / On-Device | リアルタイムオペレーション、オフライン環境 | Nanbeige 4.1 3Bクラス |
+| Tier 1 | Cloud API | 最高精度の意思決定、最新モデルへの即時アクセス、実験的ワークロード | GPT-5.2、Claude Opus 4.6 |
+| Tier 2 | On-Premise / Private Cloud | 機密データ処理、規制対応、予測可能な大量ワークロード | GLM-5（744B MoE）、Qwen3.5クラス |
+| Tier 3 | Edge / On-Device | リアルタイムオペレーション、オフライン環境、工場・小売・車両 | Nanbeige 4.1 3Bクラス、量子化7B〜14B |
 
 ### 消費者フライホイール
 
 サブスク疲れ（経済的動機）
 → オンデバイスを試す 
-→ プライバシーの安心感 
-→ 即時レイテンシに適応 
-→ オフライン可用性を発見 
-→ オーナーシップへの愛着 
-→ クラウドサブスク解約 
-→ オンデバイスへの深いコミットメント
+→ プライバシーの安心感を体験する
+→ 即座の応答に慣れる
+→ オフラインでも使えることを発見する
+→ 「自分のAI」という所有感が生まれる
+→ クラウドサブスク解約
+→ オンデバイスへのコミットメントがさらに深まる
 
-**一度このフライホイールが回り始めると、クラウドAIへの構造的回帰は極めて起こりにくい。**
+**一度このフライホイールが回り始めると、クラウドAIへの構造的回帰は極めて起こりにくい。<br>
+なぜなら、5つの力のすべてが「一方向」にしか作用しないからだ。**
 
 ---
 
@@ -145,33 +146,33 @@ Step 3.5 Flashは自身の3倍のサイズを持つDeepSeek V3.2を凌駕した�
 | MiniMax M2.5 | 230B | N/A | OpenRouter利用量でオープンウェイト首位 |
 | Nanbeige 4.1 3B | 3B | 3B（dense） | 1年前の同サイズモデルを大幅に凌駕 |
 
-**主要ソース：** Sebastian Raschka, "A Dream of Spring for Open-Weight LLMs"（2026年2月25日）ほか
+**主要ソース：** Sebastian Raschka, "A Dream of Spring for Open-Weight LLMs"（2026年2月25日）ほか<br>
+**独立ベンチマーク：** AI Index (artificialanalysis.ai)、Vectara Hallucination Leaderboard (HHEM-2.3)、SWE-Bench Pro (SEAL, Scale AI)
 
 ---
 
 ## 🔗 Related Projects
 
-本書は、以下のOSSプロジェクトと相互に接続されている。
+本書は、著者のオープンソース知識リポジトリエコシステムの第6の作品として位置づけられる。<br>
+それぞれのリポジトリは独立した作品であると同時に、相互に参照し合うことで、AI時代のビジネス戦略の全体像を構成している。
 
-| プロジェクト | 概要 | リンク |
-|-----------|------|------|
-| **The Silence of Intelligence** | Anthropic CEO ダリオ・アモディの思想を体系化。Part 1「スケーリング則の民主化」の思想的背景 | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
-| **The Palantir Impact** | Palantir Foundryのオントロジー戦略を解剖。Part 3 Shift 5「モデルはコモディティ、データが堀」の実装参照 | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
-| **Depth & Velocity** | 生成AI時代の新規事業開発方法論。結論章でエッジAI時代への進化を提示 | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
-| **The AI Strategist** | AIストラテジストの定義。推論ロケーション・ポートフォリオ最適化が新たなコア・コンピテンシー | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist) |
-| **What They Won't Teach You** | AI時代の世代間格差。エッジAIが教育・キャリアに与える影響の社会的文脈 | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
+| プロジェクト | 概要 | 本書との接続 |
+|-----------|------|----------|
+| **The Silence of Intelligence** | Anthropic CEO ダリオ・アモディの思想を体系化 | Part 1：「スケーリングは民主化された」── オープンウェイトがフロンティアの再現可能性を証明 |
+| **Palantir Ontology Strategy** | Palantirのオントロジー戦略を解剖 | Part 3 Shift ⑤：モデルはコモディティ、データオントロジーが競争優位 |
+| **Depth & Velocity** | 生成AI時代の新規事業開発方法論 | Conclusion：Depth＝データ構造化、Velocity＝エッジ展開速度に再定義 |
+| **The AI Strategist** | AIストラテジストの役割定義 | Part 3 Shift ④：AIストラテジストの新たなコアコンピテンシー＝推論ロケーション・ポートフォリオの最適化 |
+| **What They Won't Teach You** | AI有利世代が教えないこと | 全体：技術の民主化がもたらす世代間格差の構造 |
 
 ---
 
 ## 👤 著者
 
-**Satoshi Yamauchi** (山内 怜史)<br>
-*(Business Designer & AI Strategist at SunAsterisk.inc)*<br>
-**[📒 Read my insights on Note](https://note.com/satoshi_yamauchi).**<br>
-*(Founder / AI Strategist at Leading.AI)*<br>
-This project is part of the research by Leading.AI.<br>
-**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**<br>
-*(For consulting inquiries and strategic partnership)*<br>
+**Satoshi Yamauchi（山内 怜史）**<br>
+AI Strategist & Business Designer | Founder of [Leading AI](https://www.leading-ai.io/)
+
+ビジネス × テクノロジー × クリエイティブの3領域を越境するBTC人材。<br>
+生成AI時代の新規事業開発の方法論「Depth & Velocity」を提唱。
 
 ---
 
