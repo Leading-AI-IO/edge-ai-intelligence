@@ -171,9 +171,9 @@ Step 3.5 Flashは自身の3倍のサイズを持つDeepSeek V3.2を凌駕した�
 ## 👤 著者
 
 **Satoshi Yamauchi** (山内 怜史)<br>
-* Business Designer & AI Strategist at SunAsterisk.inc
-* Founder / AI Strategist at Leading.AI)
-* This project is part of the research by Leading.AI.<br>
+* **Business Designer & AI Strategist at SunAsterisk.inc**
+* **Founder / AI Strategist at Leading.AI**
+* This project is part of the research by Leading.AI.
 
 * [📒 Read my insights on Note](https://note.com/satoshi_yamauchi)
 * [🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)
