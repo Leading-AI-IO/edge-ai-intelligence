@@ -170,7 +170,7 @@ Each repository stands as an independent work while cross-referencing the others
 
 **Satoshi Yamauchi**
 * **Business Designer & AI Strategist at SunAsterisk.inc**
-* **Founder / AI Strategist at Leading.AI)**
+* **Founder / AI Strategist at Leading.AI**
 * This project is part of the research by Leading.AI.<br>
 
 * [📒 Read my insights on Note](https://note.com/satoshi_yamauchi)
