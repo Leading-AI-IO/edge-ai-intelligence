@@ -158,13 +158,13 @@ Step 3.5 Flashは自身の3倍のサイズを持つDeepSeek V3.2を凌駕した�
 本書は、著者のオープンソース知識リポジトリエコシステムの第6の作品として位置づけられる。<br>
 それぞれのリポジトリは独立した作品であると同時に、相互に参照し合うことで、AI時代のビジネス戦略の全体像を構成している。
 
-| プロジェクト | 概要 | 本書との接続 |
-|-----------|------|----------|
-| **The Silence of Intelligence** | Anthropic CEO ダリオ・アモディの思想を体系化 | Part 1：「スケーリングは民主化された」── オープンウェイトがフロンティアの再現可能性を証明 |
-| **Palantir Ontology Strategy** | Palantirのオントロジー戦略を解剖 | Part 3 Shift ⑤：モデルはコモディティ、データオントロジーが競争優位 |
-| **Depth & Velocity** | 生成AI時代の新規事業開発方法論 | Conclusion：Depth＝データ構造化、Velocity＝エッジ展開速度に再定義 |
-| **The AI Strategist** | AIストラテジストの役割定義 | Part 3 Shift ④：AIストラテジストの新たなコアコンピテンシー＝推論ロケーション・ポートフォリオの最適化 |
-| **What They Won't Teach You** | AI有利世代が教えないこと | 全体：技術の民主化がもたらす世代間格差の構造 |
+| プロジェクト | 概要 | リンク |
+|-------------|------|--------|
+| **The AI Strategist** | AIストラテジストという職業を定義し、ビジネス×テクノロジー×クリエイティブの交差点で戦うための実践的フレームワーク | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist) |
+| **Depth & Velocity** | 生成AI時代の新規事業開発方法論。AIストラテジストの「実行推進」レイヤーの実践フレームワーク | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
+| **The Silence of Intelligence** | Anthropic CEO ダリオ・アモディの思想を体系化。AIストラテジストの「思想理解」レイヤーの参照文献 | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
+| **The Palantir Impact** | Palantir Foundryのオントロジー戦略を解剖。FDEモデルの構造的参照 | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
+| **What They Won't Teach You** | AIに有利な世代が教えない、AIの使い方と"思考のOS"。AI時代における世代間の責務を再定義する書籍 | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
 
 ---
 
