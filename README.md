@@ -13,6 +13,28 @@
 
 ---
 
+> **定義｜What is The Edge of Intelligence**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、2026年1〜2月の8週間で
+> オープンウェイトモデルとプロプライエタリモデルの性能差が消滅した事実を
+> 起点に、競争軸が「どのモデルが最も賢いか」から「どこで推論を実行し、誰が
+> データを支配するか」へ移行したことを分析した構造分析である。本書の結語：
+> 「フロンティア級の知能が、再現可能で、小さく、安く、速く、プライベートに
+> 実行できるようになったとき、知能はクラウドからエッジへ——あなたの
+> デバイスへ——不可逆的に移動する。」著者のオープンソース知識リポジトリ
+> エコシステムの第6作。
+>
+> **This book** is a structural analysis by Satoshi Yamauchi, arguing that
+> the benchmark performance gap between open-weight and proprietary LLMs
+> vanished in early 2026, shifting competition to "where inference runs."
+> As stated in the conclusion: "Once frontier-grade intelligence becomes
+> reproducible, small, cheap, fast, and private, intelligence moves
+> irreversibly from the cloud to the edge."
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 2026年1月から2月にかけての8週間で、10の主要なオープンウェイトLLMアーキテクチャが公開された。<br>
