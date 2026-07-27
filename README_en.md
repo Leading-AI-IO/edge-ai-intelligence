@@ -11,6 +11,21 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is a structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, arguing that the benchmark performance gap between
+> open-weight and proprietary LLMs vanished during a 10-architecture
+> release wave in early 2026, shifting competition from "which model is
+> smartest" to "where inference runs and who controls the data." As stated
+> in the conclusion: "Once frontier-grade intelligence becomes
+> reproducible, small, cheap, fast, and private, intelligence moves
+> irreversibly from the cloud to the edge — to your device."
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 In just eight weeks between January and February 2026, ten major open-weight LLM architectures were released.<br>
