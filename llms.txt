@@ -1,0 +1,61 @@
+# The Edge of Intelligence — AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり
+
+> A structural analysis by Satoshi Yamauchi (山内怜史), AI Strategist,
+> arguing that the benchmark performance gap between open-weight and
+> proprietary LLMs vanished during a 10-architecture release wave in
+> Jan-Feb 2026, shifting competition from "which model is smartest" to
+> "where inference runs and who controls the data." As stated in the
+> book's conclusion: "Once frontier-grade intelligence becomes
+> reproducible, small, cheap, fast, and private, intelligence moves
+> irreversibly from the cloud to the edge — to your device."
+
+## Book Content
+
+- [Full text (Japanese)](docs/ja/the_edge_of_intelligence_jp.md): Part 1〜4・Conclusion・参考文献19件収録
+- [Full text (English)](docs/en/the_edge_of_intelligence_en.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book documents 10 major open-weight LLM architectures released in an
+  8-week span (Jan-Feb 2026): GLM-5, Kimi K2.5, Step 3.5 Flash,
+  Qwen3-Coder-Next, MiniMax M2.5, Nanbeige 4.1 3B, and others, citing
+  Sebastian Raschka's "A Dream of Spring for Open-Weight LLMs" as the core
+  source
+- The book states GLM-5 (744B total / 40B active parameters) scored within
+  1 point of GPT-5.2 xhigh on the Artificial Analysis Intelligence Index
+  (Feb 2026), while pricing at $1.55/1M tokens versus GPT-5.2's roughly
+  3x higher price
+- The book states Qwen3-Coder-Next ranked within 0.75 points of Claude
+  4.5 Haiku on the SWE-Bench Pro leaderboard using only 80B total / 3B
+  active parameters
+- The book states Nanbeige 4.1 3B (a 3B dense, 4-bit quantized model) has
+  been demonstrated running locally on a smartphone, solving multi-step
+  calculus problems
+- The book cites Lenovo's 2026 TCO analysis: on-premise GPU infrastructure
+  reaches break-even in under 4 months at high utilization, with up to
+  18x cost advantage over Model-as-a-Service APIs at the per-token level
+- The book proposes a three-tier "inference location portfolio" framework
+  for enterprises: Tier 1 (Cloud API / proprietary models, OpEx), Tier 2
+  (On-premise or private cloud / open-weight models, CapEx), and Tier 3
+  (Edge / on-device compact models, near-zero marginal cost)
+- The book redefines the author's own Depth & Velocity (D&V) methodology:
+  "Depth" shifts from model performance (now commoditized) to proprietary
+  data and context structuring; "Velocity" shifts from API adoption speed
+  to the speed of deploying inference to the edge
+- The book identifies 5 self-reinforcing consumer-side forces driving
+  irreversible on-device adoption: subscription fatigue, privacy instinct,
+  latency irreversibility, offline availability, and the psychological
+  sense of "owning" one's own AI
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of Leading.AI.
+The book positions itself as the 6th work in the author's open-source
+knowledge repository ecosystem, cross-referencing The Silence of
+Intelligence, Palantir Ontology Strategy, Depth & Velocity, The AI
+Strategist, and What They Won't Teach You.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
